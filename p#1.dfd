@@ -1,0 +1,34 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+53
+"¿cuál es la distancia real entre las
+dos ciudades?"
+5
+1
+3
+map
+6
+3
+2
+cm
+2
+50
+1
+c
+1
+1
+7
+d_total
+12
+(map * cm)/c
+4
+1
+51
+"La distancia de las ciudades es de: ",d_total,"km"
+1

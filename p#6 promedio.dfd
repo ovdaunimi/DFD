@@ -1,0 +1,25 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+283
+"Promedio de notas",                                            "porfavos digite sus notas en las diferentes asignaturas en el siguiente orden:    ",                  "matematicas    ",    " español   " , " ingles  y", "biologia"                                                      
+5
+1
+35
+matematicas,ingles,biologia,español
+6
+1
+8
+promedio
+41
+(matematicas+ ingles+español+ biologia)/4
+4
+1
+31
+"tu promedio es de: ",promedio 
+1

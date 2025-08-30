@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+41
+"¿cuál será el nuevo precio del artculo?"
+5
+1
+6
+precio
+6
+3
+9
+p_aumento
+2
+25
+7
+aumento
+24
+(precio * p_aumento)/100
+7
+p_total
+16
+precio + aumento
+4
+1
+28
+"el precios es de ", p_total
+1
