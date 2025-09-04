@@ -1,0 +1,41 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+70
+"digita primero el  nuemerador  y luego el denominador de la fraccion"
+5
+1
+22
+numerador, denominador
+7
+0
+1
+23
+numerador = denominador
+7
+0
+1
+23
+numerador > denominador
+4
+1
+57
+"la fraccion ",numerador,"/",denominador , "  es  propia"
+13
+4
+1
+59
+"la fraccion ",numerador,"/",denominador , "  es  impropia"
+13
+13
+4
+1
+56
+"la fraccion ",numerador,"/",denominador , "  es  igual"
+13
+1
